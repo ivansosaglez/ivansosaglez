@@ -11,7 +11,7 @@ Iván</a></h1>
 
 <!--About Me-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=30px></picture> About me
 
 - 🌱 I’m currently learning **Kotlin** and **Jetpack Compose**
 - 🤝 I’m looking to collaborate on **Mobile or Web Development** Related Projects
@@ -19,7 +19,7 @@ Iván</a></h1>
 - 🎮 Fun fact: I love playing video games
 
 <!--Skills-->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Skills
+## <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="30px"> Skills
 
 <h4> Languages </h4>
 <span> 
@@ -72,7 +72,7 @@ Iván</a></h1>
 </span>
 
 <!--Github Statistics-->
-## <picture><img src ="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=30px></picture> Statistics
+## <picture><img src ="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="30px"></picture> Statistics
 <p align="left">
   <a href="https://github.com/ivansosaglez">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivansosaglez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
