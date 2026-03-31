@@ -18,6 +18,7 @@ Iván</a></h1>
 - 🥅 2026 Goals: To be proficient with Android development!
 - 🎮 Fun fact: I love playing video games
 
+<!--Skills-->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Skills
 
 <h4> Languages </h4>
@@ -70,6 +71,7 @@ Iván</a></h1>
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
 
+<!--Github Statistics-->
 ## <picture><img src ="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=30px></picture> Statistics
 <p align="left">
   <a href="https://github.com/ivansosaglez">
