@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a target="_blank" href="https://ivansosadev.vercel.app/" target="blank">
 Iván</a></h1>
-<h3 align="center">A passionate Mobile App & Web Applications developer from Spain 🇪🇸 &#127470;&#127475</h3>
+<h3 align="center">A passionate Mobile App & Web Applications developer from Spain 🇪🇸</h3>
 
-<p align="left"> <img src="https://img.shields.io/github/followers/ivansosaglez?style=flat" alt="ivan_sosa" /> </p>
+<p align="left"> <img src="https://img.shields.io/github/followers/ivansosaglez?style=flat" alt="ivan_sosa" /></p>
