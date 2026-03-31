@@ -60,6 +60,11 @@ Iván</a></h1>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </span>
 
+<h4> CMS </h4>
+<span>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+</span>
+
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
