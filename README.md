@@ -93,9 +93,3 @@ Iván 👋</a></h1>
   <img width="49%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivansosaglez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img width="49%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ivansosaglez&layout=compact&langs_count=8&theme=algolia" />
 </p>
-
-<!-- FOLLOW ME -->
-<p>
-  <h3>Follow me! 👇</h3>
-  <img src="https://img.shields.io/github/followers/ivansosaglez?style=social">
-</p>
