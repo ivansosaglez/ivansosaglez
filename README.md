@@ -75,7 +75,8 @@ Iván</a></h1>
 ## <picture><img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="30px"></picture> Statistics
 
 <p align="center" width="100%">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivansosaglez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ivansosaglez&layout=compact&langs_count=8&theme=algolia" />
+  <img width="49%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivansosaglez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img width="49%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ivansosaglez&layout=compact&langs_count=8&theme=algolia" />
 </p>
+
 
