@@ -48,6 +48,12 @@ Iván 👋</a></h1>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
 
+<h4> AI </h4>
+<span>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
+<img src="https://img.shields.io/badge/Open_AI-080808?style=for-the-badge&logo=openai&logoColor=white">
+</span>
+
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -56,6 +62,7 @@ Iván 👋</a></h1>
 
 <h4> Operating System </h4>
 <span>
+  <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </span>
@@ -87,4 +94,8 @@ Iván 👋</a></h1>
   <img width="49%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ivansosaglez&layout=compact&langs_count=8&theme=algolia" />
 </p>
 
-
+<!-- FOLLOW ME -->
+<p>
+  <h3>Follow me! 👇</h3>
+  <img src="https://img.shields.io/github/followers/ivansosaglez?style=social">
+</p>
