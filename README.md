@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a target="_blank" href="https://ivansosadev.vercel.app/" target="blank">
-Iván</a></h1>
+<h1 align="center">Hi, I'm <a target="_blank" href="https://ivansosadev.vercel.app/" target="blank">
+Iván 👋</a></h1>
   <h3 align="center">A passionate Senior Software developer from Spain 🇪🇸</h3>
 
 <p align="center">
